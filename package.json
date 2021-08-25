@@ -61,7 +61,6 @@
     "@fortawesome/free-regular-svg-icons": "^5.15.2",
     "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "@fortawesome/react-fontawesome": "^0.1.11",
-    "@pyroscope/flame-graph": "pyroscope-io/flame-graph",
     "@szhsin/react-menu": "^1.10.1",
     "@types/react": "^17.0.0",
     "babel-loader": "^8.1.0",
